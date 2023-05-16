@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Projeto_usando_FormFilho
 {
-    public partial class Form1 : Form
+    public partial class FormCADASTRO : Form
     {
-        public Form1()
+        public FormCADASTRO()
         {
             InitializeComponent();
         }
